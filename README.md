@@ -3,6 +3,8 @@
 
 ### I am Amit and welcome to my github profile! You will find all of my projects in my profile!
 
+### My LinkedIn: [https://www.linkedin.com/in/pandey17amit/](url)
+
 ### 🔭 I’m currently working on a fitness Application
 
 ### 🌱 I’m currently learning SwiftUI and Django.
