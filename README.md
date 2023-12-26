@@ -7,7 +7,7 @@
 
 ### 🔭 I’m currently working on a fitness Application
 
-### 🌱 I’m currently learning SwiftUI and Django.
+### 🌱 I’m currently learning how to play fantaisie impromptu
 
 ###  📫 How to reach me: email: `pandey17amit@gmail.com`
 
